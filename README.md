@@ -95,12 +95,12 @@ development.
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 <p align="center">
   <a href="https://github.com/anarip">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anarip&count_private=true&show_icons=true&theme=nightowl&cache_seconds=1800" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anarip&count_private=true&show_icons=true&theme=nightowl&cache_seconds=300" alt="GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anarip&langs_count=8&count_private=true&layout=compact&theme=nightowl&hide_border=true&hide=Jupyter%20Notebook,less&bg_color=0d1117&title_color=f2f2f2&icon_color=79fe96&cache_seconds=1800" height="192px" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anarip&langs_count=8&count_private=true&layout=compact&theme=nightowl&hide_border=true&hide=Jupyter%20Notebook,less&bg_color=0d1117&title_color=f2f2f2&icon_color=79fe96&cache_seconds=300" height="192px" />
 </p>
 
 ---
