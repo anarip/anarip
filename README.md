@@ -11,8 +11,6 @@
 
 ---
 
-
-
 <img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" align="center" width="350" height="250" />
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
