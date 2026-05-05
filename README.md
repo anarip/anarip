@@ -81,6 +81,8 @@ development.
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&animation=spin&svgfill=15d8fe">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=fastapi&animation=spin&svgfill=15d8fe">
 
+
+
 ---
 
 
