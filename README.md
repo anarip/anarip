@@ -12,7 +12,6 @@
   ## Hey 👋,I'm Payam Anari
 
 
-
 ---
 
 <img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" align="center" width="350" height="250" />
