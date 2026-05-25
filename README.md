@@ -34,6 +34,7 @@ development.
 
 ---
 
+
 ### 🔨 Languages and Tools:
 
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&animation=spin&svgfill=15d8fe">
