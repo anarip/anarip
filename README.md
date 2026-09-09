@@ -112,7 +112,6 @@ development.
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anarip&langs_count=8&count_private=true&layout=compact&theme=nightowl&hide_border=true&hide=Jupyter%20Notebook,less&bg_color=0d1117&title_color=f2f2f2&icon_color=79fe96&cache_seconds=300" height="192px" />
 </p>
 
-
 ---
 
 
