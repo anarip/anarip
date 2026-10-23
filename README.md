@@ -28,7 +28,6 @@ development.
 - 💻 I love exploring new tech stack and building cool stuffs.
 - ⚡ Football, Bodybuilding, Movies and Series
 
-
 ---
 
 
